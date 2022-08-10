@@ -53,7 +53,6 @@ public class testMain {
 				int num_big_containers = (int) Math.ceil((double) total_volume / big_container_volume);
 				System.out.println("Number of big containers required: " + num_big_containers); 
 				
-				// The number of containers is wrong but i don't know how to fix it
 
 			}
 
